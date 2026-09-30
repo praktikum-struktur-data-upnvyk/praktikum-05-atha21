@@ -22,7 +22,7 @@
 //   display        membaca seluruh isi tumpukan menjadi satu baris teks
 //
 //   Keempatnya ada di bagian bawah file ini, sudah ditulis lengkap. Pakai
-//   `display` sesering mungkin untuk memeriksa hasil kerja Anda sendiri.
+//   `display` sesering mungkin untuk memeriksa hasil kerja Anda sendiri..
 //
 // -----------------------------------------------------------------------------
 
