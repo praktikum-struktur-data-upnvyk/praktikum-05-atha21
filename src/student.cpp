@@ -109,7 +109,7 @@ bool kurungSeimbang(const string& ekspresi) {
     bool sudah = true;
     for(char c : ekspresi){
         if(c=='('||c=='['||c=='{'){
-            push(c);
+            push(s, c);
         }else if(c==')'||c==']'||c=='}'){
             char buka = (c == ')') ? '(' : (c == ']') ? '[' : '{';
             int atas;
